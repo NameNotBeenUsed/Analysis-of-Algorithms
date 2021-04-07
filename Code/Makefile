@@ -1,0 +1,2 @@
+all:
+	javac AlgoTowers.java
